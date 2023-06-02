@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.config;
 import org.apache.flink.configuration.Configuration;
 import org.apache.flink.streaming.api.functions.sink.RichSinkFunction;
 

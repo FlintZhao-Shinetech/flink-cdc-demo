@@ -1,0 +1,10 @@
+
+flink:
+  cdc:
+    datasource:
+      host: mysql-dev
+      port: 3306
+      databaseList: wordpress
+      tableList: wordpress.*
+      username: root
+      password: nothing
